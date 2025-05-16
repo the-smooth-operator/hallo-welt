@@ -1,5 +1,6 @@
 {
   "name": "hallo-welt",
+  "homepage": "https://the-smooth-operator.github.io/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
